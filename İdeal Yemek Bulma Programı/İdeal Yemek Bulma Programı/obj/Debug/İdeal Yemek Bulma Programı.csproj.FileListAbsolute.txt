@@ -1,0 +1,47 @@
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\İdeal Yemek Bulma Programı.exe.config
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\İdeal Yemek Bulma Programı.exe
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\İdeal Yemek Bulma Programı.pdb
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form1.resources
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Properties.Resources.resources
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.exe
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.pdb
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form2.resources
+C:\Users\pc\Desktop\Visual Studio\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form3.resources
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\İdeal Yemek Bulma Programı.exe.config
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\İdeal Yemek Bulma Programı.exe
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\İdeal Yemek Bulma Programı.pdb
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form1.resources
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form2.resources
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form3.resources
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Properties.Resources.resources
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.exe
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.pdb
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\ccp-Cakm-IN\İdeal Yemek Bulma Programı.resources.dll
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\tr-TR\İdeal Yemek Bulma Programı.resources.dll
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form3.ccp-Cakm-IN.resources
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form3.tr-TR.resources
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\ccp-Cakm-IN\İdeal Yemek Bulma Programı.resources.dll
+C:\Users\Administrator\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\tr-TR\İdeal Yemek Bulma Programı.resources.dll
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\İdeal Yemek Bulma Programı.exe.config
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\İdeal Yemek Bulma Programı.exe
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\bin\Debug\İdeal Yemek Bulma Programı.pdb
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form1.resources
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form2.resources
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form3.resources
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Properties.Resources.resources
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.exe
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal Yemek Bulma Programı.pdb
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form4.resources
+C:\Users\pc\Desktop\İdeal Yemek Bulma Programı\İdeal Yemek Bulma Programı\obj\Debug\İdeal_Yemek_Bulma_Programı.Form5.resources
